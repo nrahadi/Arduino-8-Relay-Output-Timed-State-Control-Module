@@ -6,3 +6,5 @@ The sequence will run indefinitely until you terminate the power source or decid
 
 This project was made with TinkerCAD in this following link:
 https://www.tinkercad.com/things/enUSzvRfyY1-8-relay-output-timed-state-control-module
+
+![8 Relay Output Timed State Control Module](https://github.com/nrahadi/Arduino-8-Relay-Output-Timed-State-Control-Module/assets/144195641/2abf5c38-95ba-4a1e-b4cd-edbf6c56adad)
